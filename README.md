@@ -1,1 +1,1 @@
-# Plant-disease-detection
+# smart-disease-predictor
